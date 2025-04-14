@@ -1,9 +1,13 @@
-# this is a basic yml
-
-key: 
-    key1: value
-    myArray: 
-          - key2: value
-            key3: value3
-          - key4: value4
-          - key5: val5
+name: My first action
+on: [push]
+jobs:
+    printmyname:
+            runs-on: ubuntu-latest
+            steps:
+                - run: echo "My name is Soumya"
+                - run: echo "I am from infy"
+    printmyname2:
+            runs-on: ubuntu-latest
+            steps:
+                - run: echo "My name is Soumya"
+                - run: echo "I am from infy"
