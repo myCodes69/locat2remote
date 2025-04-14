@@ -6,6 +6,18 @@ jobs:
             steps:
                 - run: echo "My name is Soumya"
                 - run: echo "I am from infy"
+                - run: echo "My name is Soumya"
+                - run: echo "I am from infy"
+                - run: echo "I am from infy"
+                - run: echo "I am from infy"
+                - run: echo "I am from infy"
+                - run: echo "I am from infy"
+                - run: echo "I am from infy"
+                - run: echo "I am from infy"
+                - run: echo "I am from infy"
+                - run: echo "I am from infy"
+                - run: echo "I am from infy"
+                - run: echo "I am from infy"
     printmyname2:
             runs-on: ubuntu-latest
             steps:

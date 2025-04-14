@@ -1,9 +1,8 @@
 
 {
-    "key": {
-        "key1": "value",
-        "myArray": [{
-
-        },{},{}]
-    }
+   "name":"My job",
+   "on":"push",
+   "jobs":{
+       
+   }
 }
