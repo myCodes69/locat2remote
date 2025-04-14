@@ -1,0 +1,9 @@
+# this is a basic yml
+
+key: 
+    key1: value
+    myArray: 
+          - key2: value
+            key3: value3
+          - key4: value4
+          - key5: val5
